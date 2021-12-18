@@ -24,7 +24,7 @@ In the Proposed method, We uses Logistic regression in order to build the model 
 
 # Dataset
 
-
+The dataset for the project is available at the link https://drive.google.com/drive/folders/1GDxv3Jhdx9Ek2LatU6GKG6IJ2-jFUket?usp=sharing
 
 
 
