@@ -1,5 +1,7 @@
 # Fake-News-Prediction
 Fake news prediction using Logistic regression 
+
+![image](alternative-ways-to-say-thank-you.jpg)
 # Abstract
 Fake news is false or misleading information presented as news. It often has the aim of damaging the reputation of a person or entity, or making money through advertising revenue. However, the term does not have a fixed definition, and has been applied more broadly to include any type of false information, including unintentional and unconscious mechanisms, and also by high-profile individuals to apply to any news unfavourable to their personal perspectives. Hence, there are machine learning based algorithm used to detect the fake news in the online websites. some the research works identify this problem and gives the solution to detect fake news. In this paper, we proposed the Logistic regression based approach to build the model with higher accuracy. For the end product, We uses Django based web application.
 
